@@ -1,4 +1,4 @@
-# RIP
+# RIPv2
 
 RIP Implementation using Distance Vector Routing <br>
 
